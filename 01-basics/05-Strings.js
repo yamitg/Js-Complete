@@ -11,7 +11,4 @@ console.log(gameNAme.length);
 console.log(gameNAme.split('-'));
 console.log(gameNAme.charAt(2));
 
-const min = 10;
-const max = 20; 
-console.log(Math.floor(Math.random()*(max - min +1)+min));
-console.log(`FInd Random Number: ${Math.floor(Math.random()*(max - min +1)+min)}`)
+
